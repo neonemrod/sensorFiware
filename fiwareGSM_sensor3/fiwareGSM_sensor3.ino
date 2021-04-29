@@ -4,6 +4,7 @@
 //V1.0 - 160421
 //V1.1 - Limpieza de variables - 170421
 //V1.2 - Eliminación de puerto Serial serialMon, se agrega LED - 180421
+//Modificaciones de Lina en la rama 2
 
 // Configuración APN data - Información para conexión a APN - SIM card
 const char apn[]      = "web.vmc.net.co"; // APN (example: internet.vodafone.pt) use https://wiki.apnchanger.org
