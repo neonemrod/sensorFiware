@@ -1,4 +1,4 @@
-# sensorFiware
+# Sensor Fiware GSM
 
 Sensor IoT para calidad de aire, que funciona sobre ESP32 Lilygo
 
